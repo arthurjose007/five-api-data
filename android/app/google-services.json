@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "656129274302",
+    "project_id": "socials-7f6f0",
+    "storage_bucket": "socials-7f6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656129274302:android:f4a4d7db731be2aee189ef",
+        "android_client_info": {
+          "package_name": "com.example.apidata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9eVWzYtYgfS8T0XnOT_lLbPPOHfM8EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656129274302:android:3add8ec52f7fc237e189ef",
+        "android_client_info": {
+          "package_name": "com.example.medicine_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9eVWzYtYgfS8T0XnOT_lLbPPOHfM8EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656129274302:android:ad180b99d5cd7538e189ef",
+        "android_client_info": {
+          "package_name": "com.example.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9eVWzYtYgfS8T0XnOT_lLbPPOHfM8EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
